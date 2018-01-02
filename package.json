@@ -1,0 +1,21 @@
+{
+    "author": {
+        "email": "aallsbrook@clearblade.com"
+    },
+    "clouds": [],
+    "description": "This is a quick sample of how to use jqGrid in a portal.  The data in this grid is loaded via a service",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://imgur.com/a/XmXDZ",
+    "keywords": [
+        "portal",
+        "grid"
+    ],
+    "license": "MIT",
+    "name": "jqGrid_Demonstration",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": ".1"
+}
