@@ -1,0 +1,12 @@
+{
+    "current_version": 7,
+    "dependencies": "",
+    "logging_enabled": "false",
+    "name": "getFoodsInfo",
+    "params": [],
+    "permissions": {
+        "Anonymous": 1
+    },
+    "run_user": "",
+    "source": "getFoodsInfo.js"
+}
