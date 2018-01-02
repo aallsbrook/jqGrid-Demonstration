@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "jqGrid Demonstration",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "b48edfa40b8684c7d8d5d9a6dc71",
+    "system_secret": "B48EDFA40BC29CEC8FE1FEE1A69E01"
+}
